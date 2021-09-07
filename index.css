@@ -1,0 +1,31 @@
+
+body{
+    background-color:khaki
+
+}
+h1{
+    font-family: "Georgia";
+    font-size: 40px;
+    color: rebeccapurple;
+}
+.head{
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: steelblue;
+}
+img{
+    width: 200px; height:200px;
+    border:salmon;
+}
+.gamelist{
+    display:flex;
+    justify-content: space-between;
+}
+.submenu{
+    display:flex;
+    flex-direction: column;
+}
